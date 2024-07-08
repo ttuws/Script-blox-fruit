@@ -1,1 +1,334 @@
-([[This file was protected with MoonSec V3]]):gsub('.+', (function(a) _SvOwEEPDPwUu = a; end)); return(function(f,...)local n;local l;local t;local _;local o;local e;local d=24915;local a=0;local k={};while a<585 do a=a+1;while a<0xe4 and d%0x1a74<0xd3a do a=a+1 d=(d*58)%20423 local h=a+d if(d%0x3ba0)<=0x1dd0 then d=(d+0x318)%0x28ab while a<0x2a8 and d%0x4bf0<0x25f8 do a=a+1 d=(d*315)%46060 local n=a+d if(d%0x2a24)>0x1512 then d=(d-0x3c0)%0x52cd local d=24039 if not k[d]then k[d]=0x1 t=string;end elseif d%2~=0 then d=(d+0x39d)%0x713d local d=99537 if not k[d]then k[d]=0x1 e=getfenv and getfenv();end else d=(d+0x279)%0x3d6a a=a+1 local d=92912 if not k[d]then k[d]=0x1 _={};end end end elseif d%2~=0 then d=(d-0x18d)%0x92f8 while a<0x2c5 and d%0x26d4<0x136a do a=a+1 d=(d*277)%31585 local h=a+d if(d%0x2c02)<=0x1601 then d=(d-0x219)%0x2f6f local d=37774 if not k[d]then k[d]=0x1 o=tonumber;end elseif d%2~=0 then d=(d*0x3e4)%0x4555 local d=27810 if not k[d]then k[d]=0x1 n=function(k)local d=0x01 local function a(a)d=d+a return k:sub(d-a,d-0x01)end while true do local k=a(0x01)if(k=="\5")then break end local d=t.byte(a(0x01))local d=a(d)if k=="\2"then d=_.KGwZ_jTn(d)elseif k=="\3"then d=d~="\0"elseif k=="\6"then e[d]=function(a,d)return f(8,nil,f,d,a)end elseif k=="\4"then d=e[d]elseif k=="\0"then d=e[d][a(t.byte(a(0x01)))];end local a=a(0x08)_[a]=d end end end else d=(d+0x390)%0x6fe0 a=a+1 local d=15263 if not k[d]then k[d]=0x1 l="\4\8\116\111\110\117\109\98\101\114\75\71\119\90\95\106\84\110\0\6\115\116\114\105\110\103\4\99\104\97\114\102\88\69\87\100\111\121\100\0\6\115\116\114\105\110\103\3\115\117\98\84\82\66\76\109\111\75\122\0\6\115\116\114\105\110\103\4\98\121\116\101\112\87\114\107\70\107\99\110\0\5\116\97\98\108\101\6\99\111\110\99\97\116\115\89\67\113\75\120\112\100\0\5\116\97\98\108\101\6\105\110\115\101\114\116\121\87\120\71\102\67\67\77\5";end end end else d=(d-0x93)%0x735d a=a+1 while a<0x375 and d%0x27e4<0x13f2 do a=a+1 d=(d-146)%19238 local n=a+d if(d%0x4c76)>0x263b then d=(d+0xaa)%0x96d9 local d=52608 if not k[d]then k[d]=0x1 e=(not e)and _ENV or e;end elseif d%2~=0 then d=(d-0x2f2)%0x1beb local d=24775 if not k[d]then k[d]=0x1 end else d=(d-0x32d)%0x40c8 a=a+1 local d=40383 if not k[d]then k[d]=0x1 end end end end end d=(d*306)%26285 end n(l);local d={};for a=0x0,0xff do local k=_.fXEWdoyd(a);d[a]=k;d[k]=a;end local function h(a)return d[a];end local t=(function(l,n)local f,k=0x01,0x10 local a={{},{},{}}local e=-0x01 local d=0x01 local t=l while true do a[0x03][_.TRBLmoKz(n,d,(function()d=f+d return d-0x01 end)())]=(function()e=e+0x01 return e end)()if e==(0x0f)then e=""k=0x000 break end end local e=#n while d<e+0x01 do a[0x02][k]=_.TRBLmoKz(n,d,(function()d=f+d return d-0x01 end)())k=k+0x01 if k%0x02==0x00 then k=0x00 _.yWxGfCCM(a[0x01],(h((((a[0x03][a[0x02][0x00]]or 0x00)*0x10)+(a[0x03][a[0x02][0x01]]or 0x00)+t)%0x100)));t=l+t;end end return _.sYCqKxpd(a[0x01])end);n(t(236,"=xo-6ZcS.yPMJ!ezxy"));n(t(184,"-2wHQSy=<_YJUKf1Q<_yQJ_QKY2_yyY=<UHQ<KUK2<HJY=U<2f=2YJ1wQ1HQ=KH%yJJ2oQQU_QJwwU=SJ2;yQH=ky_JSy<Jw12Hf<UY22QHK_1f221<=Y1YoffYHfUHw=2Jf11fS_SK2wUyHJ8K=w=<JJ_2=y}YYK1KG2UUKB_yQYg<SHQ=QJK2<S<Y2Kw21S2_<?=QU_y=QUQ=HYKsQQS<SKU22yUY2fYHU=KKHr=QD_fK=H<SUJYYQ1lYQf=HH=UUw&2Qf<1K11YQ1_SCHw2<KYfJ01KJQf_Hw<QUSYfySYy1>w_=HUHVQy2YHUwH2Q1_1ESfQwffSwy=,Y_1HQH__KfuSyfJ21yHS_2yQYKygYYf_Hy<QJ21yQ2<2UYwS=2U<_ff<_UK1wJ=QJY1_Qy<=YY1KHJ_212QHy_JQYf1SY<1wH2=fUU4QS=_ffHwS<2_Uf=fQwffH2KyUYK1HQU<_JZNQQfYY1yw<Sfy*YUSK__1QHA2SJfrUS=_1fYH}=YJY1VSY_KK1wQVS"));SzjXCBTEEosGlpt=function(d)d((-2134+(function()local n,a=0,1;(function(a,d,k)k(a(d,d,d),a(d,k,a),d(d,k,d and a))end)(function(k,d,e)if n>477 then return d end n=n+1 a=(a+427)%39285 if(a%1062)<531 then a=(a*711)%15180 return k else return e(k(d,k,d and e),k(d,k,e)and d(e,d,e and e),d(k and e,d,d))end return d(k(k and d,d,e),k(k,e,d),d(e,d and k,d))end,function(e,k,d)if n>452 then return d end n=n+1 a=(a-107)%21872 if(a%1214)>607 then return k else return d(d(e,d,d),e(d,e,d)and d(e,k,k),d(e,e,k))end return k(k(e and k,d,d)and k(e,k,d),k(k,k,d),d(e,e,e))end,function(k,d,e)if n>224 then return d end n=n+1 a=(a-30)%24275 if(a%480)<=240 then a=(a*595)%18940 return k(k(d,e,e)and k(e,k,d),k(d and d,d,e),e(d,k and k,e)and d(d,d,k))else return d end return k end)return a;end)()))end;tplGsoEETBCXjzS={_.oBOMsImF,_.YVYQReix};local d=(-1254+(function()local e,d=0,1;(function(a,d)a(d(d and d,a),d(a,d))end)(function(k,a)if e>108 then return k end e=e+1 d=(d+107)%18542 if(d%1406)<=703 then d=(d+190)%33841 return a else return a(k(a and k,k),a(a,a))end return k(a(k,k),a(a,k))end,function(k,a)if e>106 then return a end e=e+1 d=(d+770)%47243 if(d%800)>400 then d=(d+180)%14028 return a(a(a,k and a),k(k,a)and k(a and a,a))else return k end return a end)return d;end)())local r=_.yvUvqney or _.dysJqGOm;local nd=(getfenv)or(function()return _ENV end);local l=4;local e=2;local n=3;local j=1;local function ed(b,...)local s=t(d,"ewk6HQJda2ZKNBF5Jdww2QwNZQ62Kw6aK5HHJZnF2N2Q5QJQKd6dddkwkaaBBJJk6wKZ6BNHHKByww2F6k5*d25Na6tZa5Z5J2NaZ56FKKHkN2HFdawN2KBF2N6KNQHJNQ2akKZHkKKk6dJk5FawwQZ6k2QN,NKB6BK2HBNZ2B6wZ26UKd6NJZc62dkk2akNJwwNKaH6Nk>HZQwkk2Kd6QKNH6NaFJ2kwJ2KkZ226kKQaKwJ2dwFZQkZQk5wd555aJQaFBJHFKdk5dw5wNaRBQfFBBK5k5da526aw62awkZ6JK5Kdd5FaQ.ZQwBKQHBFdH5Naw55aKMKB25Za:)daFwQ2NH6Q^2Z6kZJkBKH62BakKFQHZ2Fw5QFw2KwHQNNQ:BZHkBFQF5JdJHkNFHFBQQNFw5FKk65K5HNBa2J6wZkk2K 6QJHdaB2QJHNddNKZk}6JaNHHHaHkNF2QZFKJN5NdZAFB6JHB5JJFBdkZw6NNHQHNBw)NFJB5dda5dNZQQBJQBFHJ2aZ6BNdHkBH2dkQZ6kZKw6JQapBa^w22QwBZ!k552aK1QaNw62aNJQ5FHdd5BdZKBdKwZZHkQZHdQk5FF66KwSQFFzFFN6JNJHkN2QXBQ5KZj6kK2w6KHHdNZQJBJZJ62Kk62N^HQJkraZ)k2ZQk5K2kQNdHJNBQ2B2ZK6dKd6FNQHZJaqBZwkaKy6J55a5;K2kw22FKBJQFaak5B6N5J2FwJZaJ55KdK+ka2)F6KB2QFNZJFFFN6Q6N5QJBBJkaH6JK%6dNd(cNwQBF6Jw66Nw65NJHBBk5Z22kdZdkFdxwwdF2QkBZwkaZ56HJ6ddBaQQHKdJNZZw_kJdN6H6a6kNFJQNF6d56BBkH2BpQdBN>HZBkdJN52dZk6BdJkF2wBNZJN-HaJQ&FJQNF6JZF5wFNa6BNHQHNwQ2Fadk5QdQF6a6UN2QkdFZaH5JdBIHa2K2QKBJQZ5HJNFydZ5Ba55lZ6kBZa6Z2f6NKNH5BNZv66ZN66KZ65QBJHNakaQJxaZQ65K6HHBQQ2BdZQ6NKw6aK5HHF66J57QQZ2kZJ26a6a2akHJl266N5fdK?kNJQKBkQ2FTJQkkJHBZ5Q2J_6KwJDBNw5NFakVwdNw{B2JKFQJN56da2H6FNQ6aB9JaBFJK5Bd6p2aaQd5zJ6FZdw5JK65QJKaJkd2HHJFKdQ5N6dFk2HwZQ6UBKak2KBaJwH2kw2Z_kQHH5Iaw 2dBwwaBwJFaaw5HdK7kadZZQFBBQaFN6kBHaa>dakwJJ2BJd562Z56JNwHwwdZ2k6ZZ6wKJQQZ2ajFw6aZkk6Jk656w2kF22QkaZwkaZ56HJklJaJwJ2HkJJJw6Kd6dNdHQBd2aFaZQkNB6FHwFNwwLQ2F2JQFNd65awZNkQgBBQK2JHZFQdB5BN2QZBQQNF6JaaJkKKN6Bd5k5FtJ BNd)FBN}QkNNQ6BZQ55FQwgKd9NHHQaH6FBZQZ5kdk6FNKHZBwQaBB5KZdkKKZ6BNFQJw2K_kQZN66KaFdBBHB2QN5ZZk5TaHFN1HEa(QKFUKakFdw6ZBkHJNBQHB23awNdB5Z5.wKJ5HJZd^NJaFakaBkdF4k2dw5FkdQFFdQ5NawKcHaFkJQKNJa52JF>HaKldaZkkFQJN56dZ!waaR5NkQBZJ6QKk62NDHQJHw2a5wNZ6kHZN6BKBa5k62KkkZ2kFdd5dBBHF JJdBXk6JwkKKd2N5FHBwKK6kdZF6QKZddK2k5JHBwaFkvKk6aNBHBNKHF2.65F6dw52N6QKN5QJBBJka5kQK26JNaHBad6kBZdkFNdJKwQFww2KwJZaJK;Idd5FaQ8ZkKNBJJFFHk5Na65daz45J5wdZQkwNtdFw6aZww2awBHw5kQ65JaJ5Na2)Fd2kZZZkJKZ6daN2ww52BkHZK6)QZ9kdFfFHd#k2JwF56aw55aJAB2kNwJ6FkJ25QdQFNJdQQFDJwFaJ55HwkNkHJNdQJkkKkkFKQ6NNwFwdJ5ZQw5FKw6KKJHaNF2kwN2FkQZN6wQQ5Ja2Y5BaJdFHJK5kdd2HQkB_HaFwJa2NQdBZNwQJNBQHBKJRa56H8NdwN)5FkaJBBJwZ5kdBdLBwQHBHJ0F(JdFFd62KHHNZHFN5JZkaND6HKKHkNdF52FwwQdkJZJ6dKN5ZBkQBBsJH2BddHFK61BBSJHBNJ6FZJ5aBHJNZQkNKQw2H6FF6d2xHda d26QNFdJaF5dJ5KwaZN66K5HQk2KK6QKNH6Na5-26k6ZZk-ZB6kdHkaNdQdFQZd6ZK66ZNwHJJdwH2Dk6ZJ6kKkHwd26kBJQBFkZN6BKa65NJHKd6wkZ0kiZdF22665N6HaBdZ66HZ56JKBHkdO5aJNcHdNr5aKw62BkwKk2ZkdZJkBKH62JJxna5waZHwNKwdQ+Jawbaa5wH65FkQF5BdV?HaNhN2*kwZ2JNEkda55aJuKkNB2QQFaJK5ddd%J6F5kaBkwZBkZKd6BvJ2Kwk22k/ZQNBd{5NdFKNdJwQZZBaaa62K26QN2HJw2Z2kQZN66KaFkaF02aBkwQJU6ZQ6BK5a2w22QwNZ6kaHKF5dkpH268FHBvwZZkH522HyQaNw62aQQ2dEBkaN26J5paN7NZHkHZBkaKN5QZdHHBNQkFNJH6JBHHkN2Q+BQ+Hwad25JFNwdJKHkZ6taJHFHkHNBad5BaHk:HF:aK66kKN6QPa2awH2KkkZdN5da5k6dFZaZfB2dw5K6da^KaH8K2kwdQJBZJdFaak5adBww2dwJZQklK5dBwQa2wv2dwN6K56JJ5aHOFkaJ4226wKZwFHaB6FKZHHNNbFkQKa6wKa65NHFQadkEZaBKa66BNH6aNwQ#aNkBkZNJ6JKBHHN25axNJBFZFL+KQ56J2d5NQaBawaB6JF5JaJ55Hk5N2QwaFFaQ5Zaw}aaBKNQHFkJkZHN5k65ZQZFJwNQQ}kKQ65KZHN-5Z;wKZkk2ZFBKd5wjd5wwHN:JZK6JZ266_J2Jwk22k9ZQN6NZkFaFKNdwwk2kkJZddJw6ak=22qwQHHQaK26JkNQdZKakF6HaZHkHJHw5NH6ZN2QQaFHdBBJJF5NwQKNBQHBKJua5Z6oHawddZk5JNBkF26F5J5Z5QZ!kaZwrZxkNZQddwaa6 Z2wwJ6H6K2555kBQaZKMKIZJKKZkKJQwHKHHQNZ^aNfJKBFdkZKJQQNNwwKBFJKFZdw5adBZaHKNdQxB2HHFJK2JwNQHNB6Qaad2K5Nd2J52ZFFNQkJaKFdJdZdQH5JaFwyHZT_2Z6kZK65NZ6NBJQkB5JQ2FHBFBdFr6BwJkBBJHFKdW2F6dNQHQNZJk2Q6F5kdBbHNaQ2BHQKFkJd2JaN5ZHQdF6aN5JQF6dw5NK5HNNKQkB2QFaNkKK,6ZNw5NKK2ZkQZJkBKH62dBrF2(wk2NJd52d65ZawiJkHB1QaBKJ6ZHJk56aKXHaNwNFQdJ5wda55aHZJQQBwwKFFkkB^aQ5a2cp2BNJBFaJ55JdK2ZH5NQQkFwJdZ{HZ5ZdJw6B6JNB5JJFBdk2wHJKNH2BaQF2dHw5ddw&Z6Z5aa2kwZakJK66B>ka50F2QwNZwN2JN5adZFKaZw5BBJdF2dy5ddNZZHdB5Qwk6K6k5KJ6BNkFQ22w222wFK2Fd2K6JNZ26kk25kJZB6kQ6RJ2YAK2B5NZ>6wK2dNw6aa352JwKH6BFdJ5HaM5FHm562dwZKw6dZ565K2HBBZ2BkFZ26%Kd6NQ5bda2wwa6kNZJ6QKaHKNZ2HkQZ(kdZF66QNmHJCwkaFwa2BgkKQ6NNmaKk62dwFZQkZH25FdH+w2WwJH552Z5k2Nk5k2ZQkNZQJBZJF66Na65NJHBBk562BkFZZ6JKwHQdFkaNBJ6FFJk5wdBHJB2QkB2JiFQ*NZNHHKZHaa66FF_waNKdQ5Ad5HKFHQdBFJQFZ}aKH6NK5Hdaa65BKdw5aaHKkJa:JaBwd2akwKQdZw1aJ<B2Hw2H2FKJJFZaH5NJwyB2wkJZFAHK 6(N6QqwHZkkqZdkFK6#kaHA52dwN2ZkJZJdJ^Hakr22#wQ6HBaHQFJa?BJdK}5BaJKFHJK5kddZdH2NHHaFkQZNdJN5FaH&BaB9KBBdQF2d/5ddNZNHNN2QwFQwZBaJ2;6dKl5HH5HZQkQZw6QKkaQwd2wwa25kHHBFFB&H0a2Nk2Bkk5KHwK666)6aBW52JwBZkNKJQ5addH2FwQQBNJ6FawQZ56FNdQQNKcBKaJx5adk5N6dFH2dkw2NkF5wad5BaHCK2)K5B66HKwZdBkkJ5BQFN6w525B5aBHkNkaKwZ2dwFZQkZQa5adN!aaawK2dkQKwdHw>a8WdaFw6JkFdJQJHNQwaaBK5aFaFF5HFZKF2KK6aBkHJBdJaFNJZ6aNFHHNKQkBds22Zk2KKFF2KHKBQYZKQJBFBJB5ka6T2BkQ5BFJQFNdw2wkJZZ_wK&QFBdZB6BK2HRNdHNdFwBZdkaZdFZ2F6BNBQKwBK_k2KX6dKNF6adwK2QkwZwFwZk6FN665NBQVkkKQkFKQ6NNwF526wN2ZkJZJ56ZhHHNBHKBdQdkdKN66KZHwNJFH2dwBZZk5K66dd5wNN5QQFkJdFKJ56ZN2HJNBQHB255ZHkFKa5BZkHdBwQKk6N#k5KJ6BNk5w)QJJF6B2>HQak52t5QQwBwwwNKJHF2dNIkd5NkdNwQ2aJF3HdZLwaaRBZN55K2wFdk566kFdaaJZNFBQa2aJFKHZ&a2HwH2KkkZdB2ak76adC62dQNFaJaF5dJ5KkHNNQJBaQ6FQKMHkKNH6NZH5JNwJ226kKZFB2NQpB0QBBQJ2kFNa6ZNwHaNBJNK5d2BF6kK65k2KH5BZJw2Q6FHJKdKw52Q2NFwKFHdw5tdd5Fa6Z&HJBFJdF6JB5dK5HBNKQkB2QFdZkHZKwZKJ6FNaQJkwKQkBKH6KNhFKaKwK2wkKZ6FQZk6NNJHBN2QJBKZB62K2H?NdHNdFwBZdkaZd5N552BZN2JdKwJB2Jd5dNuHBNNQ6BZQ5aJ6JKJ6FNNHkBk2KHZZdkFKQ6ZJ2dBBFQKQwdNBzZdWaJBN2H2a26HFNQ55wkNBJa5w62KwHZZBBa5kNNJ6ZNFHaN2H6FKddZZJa;d2wwwaZJH5ddP5ddFs6kKNFQFFQJ256HF-wddEj2aoN2FJ2 FdQ5Na6MakQB6JKB2dw5adkKHJB9Ka5wN2NBFZbFNaQA52wOaKHQ25wd65KdF5Z26wHHFwkFNda5ad5rJaKKHJkFwQBFddKH NKHNB6QZB5kQZ2aK5I62oK2kw2Z_adKJHdaJS6NNQdBaQ5FJJK2Q65KaHgBH2265ZQkNK66aJddKBNQ2H5dZNFZQgJJKNdHdad6KFZQBZ6HB52awu522NBa0wNK2kHZk6aNdH2N2Z666Z56JKBHkJk5ddKBkd5kNKJHQKZHFw6K6w5ZJkBKkFw5QQJB6N25HHaw5a)FQHwNwVwkNd5QdKaw2dHKkQ5wk2NwdZ2k556aH55aJgB2kK2J6BFJ65QJRL6d5wF2wkQFZdZ5JdB0Ha2KiQ;FaQFFNkdBZaH55aFQZF2JJFBdH52wdNZHFBaJ6FZJ65Zd2H6FkH5BJQBFkwwkQaJR652kHdaH5KxwQdw5w6wFN2Hw22QwBZ5k6ZHwaZJkFNk2N6wZak5KJ6KQa*N2J>52dkK266fNa6ZZNHNFkQJFHZ5HHKKHkN2HFdBwQZ6k6KQ6KNQHFaw6wFkJkBFdkF5NkQkNFQQBNJwa5kKZK65N655KaQNF6Ja6kN66FNQHNBwF52K2K5NQQKB5J25Q6BFJQk2K26QKNH6NaFJ2kwJ2KkZ2dHkK2HFBJ22kaZQkNK66aJdwwaZwJH55FZN66KJakwaaFwQ2NkwH2FNdJ5ZaNXz2akJQH7FKw6QKHH)N6QdwNK2kaZ56JKKFZakwv2RkkZa6kKKFFZ2HKa669F6JBFadZZBJd:Ka6kh2FJd5Hd65Zaw7JkdBwQBBZHZ5JdkHkBJHFBQQNFw^dZN6FNHHBNBHKaB6BFFJFFZdF5KNFJNBZJwFaJB2NK#wwaFaHZ5y6BZ6KZg5NdNKNJF7KZQw2ZZ6KK56BdKQa2KZ*62ZN66KZ65aNSZ2a4F25kKZa6BK652KHQ2F6QZ2NH252a6yQN5QKBKJkF2JFaN65N6HBBdw5k6KZk5KJ6BNkF5a2wK2FkkZ6kaNk6ZN_6JBFJPFZJIFBdkHHBaQoBdQFF6akBJZBuFJ5NZ)aFdKNkBNZkNa_ UBrd.BNJ6FZJ52Q6kKZQHN2QQBQwKBBk2NwH6B6QQBNQ6gMK6k2KJH6NkQkB5JQBJKlHNKNH6NZH5dF2k56d+JJ2wFQKNwBakBFQF2FHKFBaQ{dHwFZ2FkHZkdH#Fa/(daFw6HkQJKd6HkZQQZ2a>FwHJZkkkJk_KKwH2BkHFBaJkkZK26JKBHHN2waaNwHZQkQa26BNaH5w6ZQw5ZJkBKkQwZHdNBB6F22BdKkZJ7dJNKB2wkZ2BkHZK63Q5d6BHQwHddkNJ2B5FJ6K565d5kFNFJGFddwSGKFHQNNQ6BZJwNaBF6Jd5wLaKwk22wFHNF5dN5Z6QFFaanKZwwBKwdJ%aakr22twQQFB5B565N6*d6ZgB!2JZF6wF5Ha58&adrF26NkBJ6dKHZZBQk2q>JwNJkkZkFk2265N6H6aQHkZwkK6wN26BNHHKB0FNZ!wNZN6TK6H6BC*6K2Q5BBw5N2dQ52dFxBB2JQFQJN56daZJHQNZQHBKJNkBNk62N)HdNNa2NKHwdJF62BHaK2HBaJ6HF4QN5QdNH?FRHNB6QZB5nFZJ6HKH5JkwdQHNZN6aJFZddN5NFkQ6iKJNBQkaJJ69KNZw)6QkwFZQkNK66ZNwHaK52QB5J5FKdk52dFZyHQBKHwBZJF52d65HdBH5BFQKFkJ2FFxZKH6KKkQHB6QZFJJJ6aBwHHNKQkBd5K2NkQJdwwNdHwNHQd2w6KFFd65ZdQ&2aJUFZkJd5Hd65Zaw,JkQBwQCF6JN5kJ5HkB6HFBQQNFw5FKakFKQQwd562FHJ6FBJJ62BdHQNNQ6BaXdwKdN52F5wZJFHQZJhKJdFdkdFfdJhZadw22FBaaw6QKK62vK2Qwd2FkQZZBaa 8kaZQwFwQBFHJK50waK6HHNQ6FBdJ6F:dktwNwQNNBQHBKJ:a5Z6/HawddZk5JNBkF26F5J5Z5Jw5F2a(N2BkFKk6*5F2K(Z2wwa2BNNFlHwKFKHB566nZJKBTkNZNFN2dHNBiQaa56NF5d25HaJH2FwQQBNJ6FawdZ56FNaHKNK6NBZH5FKdJ5QQZFH2djBZ(w55waH5BaHOK2}K,QFBFJ65Kav5Fd5N6JBwB226J5JaF.ka2w32QNHQNFZJZ5Nak7N2QNaZ6kQQBwwKHHHKZHdNN2F6qZZ6wKa6BQKbFa2wN2QBKaK6NKN6aNNH2wNZJkaZ56JKKBaakwc2HJk5gJF5QdNuwkKN5HFKBQB5QJK52NHQQBUQdBFJ62w66KKHZdZkBBBJwFwJk5JK2ZFz6HHBQ&k66QwZFdZWFaJoB2Hw2HkF6F6H6NdgK6Fwd5kJ6}hJkKJ6J(J2dwk22k9ZQBGd256akYQ2awdaCkJZK655Ba2m22hwd2NBwJB5kJF5Nd5QwBNQBFHJK51wFN2HaBkHKwFZ2kZKw6aKBFKFkJ<2KwKFKdd5ddF,QaZKQQFBNJB5zdJ65BdHKBkQ2BFzBZQ66K65Qk+dHHKZK6dJBZJBwkQ5NQNNNw5Fdda56dZ-waJKHQBB5QKF5kHNBaH9kaFmFBFJNFZdw5adBZ5HaBHQwNwJHFFdQHxBHHNB6QZB5#WZk6ZKN6NKFQdB5JJFaJdFFdZ5ZNNJHBaQ5FJJK2ZZF,5aNakZB1wBa622F5ZdZKZJ5JKBwkHZHdHw5a#AdaFw66w6a2N5NkZQQZa=a!dJaKdkaJkwwKwHkNdAQKBJaBKJ5ZaJkQ2KFwaHKdJN2ZwzkJ6KF5NKJJGkwKJkBKH6KN3FwadwJ2wk6Z6FQ2QHJNJHkBJQ6BKJ56HN6H=NdHFB6iwZH6wZ5FZ2H62NBHKwBKHk2Ki6dKNxQaJaJFJJ ZZFwK0KEwx2NBaUKBQJaFHJN6FBdHZBwQaBB%QKa6ZKQH6NdQwBGQ2BZQ55wkNF6a6w6a2k62KJB5Nd2)3adoNkZBJQZB5JFB6aQ5BaNQJ56JkF2dE5QkH6a22wJ1N6daKJkN6kaaH:HHH5KZdkQZNFd2Z6ZBkHaBNZw6wZB6HKKHTQBwH2kwF2FBF2k6KKQHBwwZ2wBZHkKKMB5ddpQaQNd5kHQwBdBv265daZ65JNFk5dN59K2HNNQHNB6Qa2Zw5KQwKKHHaB6H2BBHJFkJBFNKFQJNZQwBaQB5NH5z2JFNkH6akQwQwKwkwJFZNJddKBKQ52kJJ5Jdk52a*>Q66KN6jZdHkNaQNNZQwBaBJJJFkJ25#dQZ6HJB6QdN5QaNBJk5JakHHa66aJdQFdFKkQI6N&Q2www2aw5ZHNwdK(wa19!2HQ2FBJQFNd65awaNKQJBwQ5KdJ25;Jk5ddZwr2JwNFQaQ5wda55aHK6NdkaZQ2KNJwZ5wQkKdw626B6aZ6(KH6HdJ662kwNNBHwN5QdFKNQH5BwQaB5JHKJkdKJHatK2awd2FkQZZNdQQBZJaFJd5;kFJd25kd2%-aQZJQJF6J65?JH56d5KaJk85ZwkBFKdB5ddF-QaZKkQQFQQKFaJBZ5Q2uQa2}F2BJ25kdQ5Na6uakKB2JwkaN66HKKHkNdJJKZ2w5wdBK6FNwdJKHkZkwkJQ2BJ55HaJ;N2QwQ26JQ5Jdw5ad5^HHJNKJwKJJd5dJFBddN552dQNFaJaF5dJ5KkBNNQJBdQJZNKi6aKNH6NZNHHBNwFad55HdK(kadKJHFBNQN2FN2wB5HQHF+wJH552Z266ZF6By225wQ2Nk6ZaNQJK5Ha6MJ2awNZ2k2ZJcNK5H6NBQd25Z66QZ56JKBHkdkwd2FkwZ2F?2+HwNw6BBwHFkwKdkBKH6KN{FHaQcFQE5ZK/kZZBHrdZkZBKQKBdJKFaKKQHNdHFBQQZwdQ2N5FZaK5aZHQkBkQdF5dH5kd6KdJwwwaBkZFZdF5JdB<Ha2ZaQDFQQF5kdKZFJH^ka2w62HwBKwdJ^KakT229wQBkwHaZK5kNF6dK7BaBN5a2k7ZQ6BKaa2wd2QwNZ6kaHZ52dQV#2Hw6aFkkFKak5ddF QaZKkHBFQJ6F5JB+k6JF5a2=FZHkFZ26KK6HdPN2Zwa25kJZKN5dKfda5h62dw62NJFtJdZ;waa%B6NQhKwkFkHH5Z6dZBKHi2NwNQNw6K26ZNJQ6wJZZkkZ26xKQB6aNwk2w:BZJkBJww6K7HZKFQkNNZ{kdZF6QQNkadRw62aJwFZJB5HdKvskaN6JwwFZQkNK6BZJwkwQQwJB5JZFKdk52dFZZQQNNJwF2ZN6aKa65NJHKJdWQdB>Z2H)FD;22+N26wZ25NFFkH6N&KJFw6QONJBBkkFZFFF2a6BBJQFBBQBk5KZ6KNkH2NFFK25w2Zt6F5N2JTaa5wJ2KNJJ2F2JNWQdFN8dZw6ZwkwZJ6Fdwk5NHHdBBJ6F2KkQ>KFHQNNQwVFQLNJFwakF5ZZH5B2Q#2kHB5kd%5FawEwH65Q2kkNZ*6HZFaHwF2=wd2Fk6QkJJNdHH6ZJQK22W5wQJKk6kdkkJN2Q2FYQJF6Ja6ZB2HJNBQHB2%wZZ6wKdk6KNHwNH65FdJNFZdJ5Ja2FQaBv52JwFZF?aNkH2NF26HO25kJZB6kJw5NaHwQH2wJZ.kZZZFNNZ6KBHAaB5JaFNda5XdQMBaQ_KHFkNZQ6dKk5wZQHFBQQKNdJ1FQk2FJHZHF5wQZFwJaFBwN6%2w/F_Hk5a6QZKKk%dN5N6NFd25wkZH9kKK65NdHEBJ6HBwJKB5d6FBN6QQN5QJBBJka&adFKHKd2QakB2F6K2B5wdwHwBQHBBHQKF8(6Z66FKFHKN6H2aN6JBKdH5NdK5KNBJkB2J(FdJN2K66NwHwa6ZFrwB262NQ5K6HF2dkFNF!JBFNd65Zd5ZBHNBwQKFkwBBFKKHHNdHFBQBSQNBZQJdZ_QaJvB2Hw2H6F5JZFFakHdBwQ6BZJwFJkFZ2H6KFaBw522kLZdkNHK56ak)K2ww62HBa2k6QNkH7xK25wd2FkQZZBNdKYQaJAQHaFLQJwHZ2kNNkHaNF2dkJZ6kZKw6JJH52aB#ZQZ.d2N6uZBaTw#aNw62Zw5HB5YdB5K6JFH22wHZJwZ5(2H5Na6uZa5ZFJ#2aJB5QawKHJFwd22kIZJ6CK25ad6kZNBHBBmJ2FkkHckd6tk2HBQQNF6FZHNZF5;HJNK5J)dF=ZKHHKd6FNQHZdkxBZQk6Z5kBJ5kaNkHQBBwkKZJH5Hdd?ddB/5BZJdFJJB5Hd2ZdHHNHQQB2JQFQKQHNNwHaN5QHwwQ6N2FHaQ5k2KQQNKQkFFwNBJaw3CaZv6BHQKFkJ254dd5FNFHN2QkJZwkaZ56HQH(d2k0B2Ky22FkwKd6BN6aNwJ2aw5ZJkKQHBBQdNNBkJ2BFJQFNdwZWKHwQ2kaaK6=dBF65ZHLxabNRdZwBZZka56a555aJpB2kNwBQ6JK6Z2BHka55J{NQkwZwFwaK6dK5HBBd%KKFQZ5dKdHaN6HZBwQJawkdK6kdK2SwZKQwBBQwF6ZFHVKZHwNaHBdKwZZ5BBaB6FKF6ZNFHKaFkJkNNa6aK5HJNK5ZLFJ5FNFkfBJw6a225FQZBZwZBwdd5KdK5aJN5ZakwJ5zaX5Na6{Za5ZBQkF6JHZJQFC2a7od2dJc5BJN56dZ55kFHkZ6kpwJHw2QJNNB6kaFDFHF0aKw66Z5H6ZgQHB6HFFkZKHBKd6FNQHZd2aBFFJKJwaNF0KdwadBB2Q222Q65Ja6(w6NFZ25wZZNk_ZwwQZ6kKK5226wZQkNK66aJddKBNQ2H5dZNFZQIJJKNdHdad66FwJQ5dJ5HwNKHBBHQKFgAwKw6dNHadwZ26wZZwkJJkFNaQ5daKrd2?wJaKkwK{6kNaaNkk2aw5ZJkKH2QxKHwHHk5H2wkK256nNwHQN6vwBFkwkJNw6kK2HbNQ5HiaJ2FJBNhdQK6k265aQHBHwHKBdd:k6tBFa6gJ2FJ65wJ55JdBhkkZN2QdBdQFZldBNuNQQNBwQaB5JH26kFw(aaN2H2a2JHFWJNZQd55aaNwdaBkwFJaw5kd2YEaQKHNak2ZJ2NNdwK5kQ6KawH2HBHaFkZZZHkNkkKNJQZk6KKk5KJ6BNkFBaBwB26kBZQFd2K6FNaH5B6J&FJJ+F5d552NKJ6BdQFFQJZ2kHwKH5ZN2H2BZQ52BdZQ;KKK22Hw2a5k6Z6d6Skd5_JaBwk6wFJJZ5kH5,kaN*d22QN5QJaF5dJ5KKa5Zd=aKkN22Hk5gaa5JaFwQa5BwaZkaZN62K2aKkH2dwFZQkZQ2JBNFHKHwJNNz2d5aQBK262d2kNNNQQBZJZFdKZH2NJHBBHQ2dQw5ZJAKNQHKBkQHBZZ666Z56JKBHkdXw22KwdZK^aKN6KKJHZw6Zaw5ZJkBKkBXdNyTaQwHaHwNZK6QKa6a2FQ:BdJwkJKa6kK2HMNQ5d2Jk:Zwk<J65KdwKZ5NdkaBZkk2Kg6dKFHQ5O5JwZJ6TwJ55JdB_kklkdaKFKw2BHJ5QwN2pZaZNZZQk.kza)FFH6dK6QkNZZFQJQ6QNZHwNaH5BH2wB6H2JHqQdkwNNwQQFHQJFZJdF5a6HaBQQHBKJkFdk2ZFHHKFH6B6Jkk6Ndk5KJ6BNkFKaNaNFNdlKHFdKJKJwJZkBFwwBFdw5KdJna6KNZaB2w5kH6JQ6dKN6BNNwww5ZNkKKk62KFFJawwZZkwZZF6N5Z2ZbJaBwH22NaBN6BKZK7BKk5OJJdNNkaZaFa2Q6dN5QwaK66FQJNZdQ}yHa5wJBZdBFJJB5Hd2ZaH9NFHF2pKKn5FJHJBkLaHwwNwGdwBJkdJK6Q6Z2K9FH52QQFJHNH6kaJH5BaQKFkJ2FFwJK2HQ}FZwwZZwkaZBBKdd55aBNHJ5wd2NkKZ5k5N6H_w6ZHw5ZJkBKkvEd2Mdad9NZHk225kFK/HJoZ2NwJ2BkHZ2BadZ52atTNaNLu2JkZZd62KFaaj52HwKZkkddK62NkHQNNQ6BagJZZ6Z5aaKuHaKwk2dNHQFFBdJvHdZ5KJawY2dwBZk6Z5Ba5022Lwd2NNkJd5wdKK6QK1Q2QwaZawFKudKwZad9F2QwZH2QBKF6K6wQNKpadFaHBZ2k2J2w66a2ahZJV26H956dB5aaZwfBHJzF{JdFFd62KHZN5HFN5JQkaKH6HKKHkNdF22FwFQd5aJQdNRdaaS52JwKHNBFdm^EddH2FFQQBNJ6FawdkKaNA255kZdFQQKJwKdd5d6dFk2ZyB25BZaH6BNwH2NkQaaK6BBZdHFadN5JNNQBBaQ5FJJKkaJZF{5K2N(2N6QaFfJZ5FN6QZN5QJBBJkalkQKFHJNQHQad6BF6wNBddk5J6a5kaK1FFHaH5>dd5Fa6KkNJkdZH2ZNQw259QwKJwk2kBkdNkaZNHwN26dZQJ6FwQ25kd2FZNHQaB.QdBFJ6k_JkBa>BdZkQN2JwFwwBNddZ56aBQgF6QNF6JZF5wZKB62BaHKB5wHN6dd5daH5N2AQQFFJwFaJ55HwdNQZ;%HQ22kJB5kFaHaKaKNFd6K2Z225ZH2KZaHww2&wd2Fk6H65wdw5JaFw62dQ5FNJK5kd25F2B5bQ H5KL55d.6ZBHHJNBQHB25dZ6kdZN6K2aHNB2QQKJJkFJJ2(6QawJ2HTNZQkN59a65Na6)Za5ZKJJFNJFBJakD_adFFaFkJ2N6T56NHxad6^FkZB5QaJKKHHKN}HdNFQ6a6kQZykHKF6JZaHKNdJJB2JBNQdw5waHwwBQQ5FwJaF5dH22w2KHk5wKZQkdZF6QKZF6awwQaFJw52JB5HdKT_wBNFQaFawdNHdd?wdN0F2HNad6wK2F6UK?HH+22KwQ2Nk6ZaBddNQHK2xBaFNBZZd5NQ6dKdaQQHk FdJhQaFFaK5KHJFQQkB2J0FQwHkaa2fJ5NkddKQkK6wadH5H6HB5a6wK2KBdak6dZB6ZNwHJBZ25kFZK6kK26FaR%52HNFZJ6w_JJKKZaawN2HwKZkdNkZZwwJaa?FZdw5ZJQdFk6BF2dH55wHZQkxZdkFK6BtdJ!FH65d2kkJZpkBKkHJmK2Zwd2FkQZZBdJB5NdFwH2HwaZ26w5HadiIad_F26Q^2k(ak6NH6wFZaHwH2Hk6ZJ6d522J;QaNw62aNdBK6NK2Z5BZkF+QJJNKkdZdFdZw6JKFHaBNHNNmHFBJJZHHBZQDBdQFF655KNkBKF65N5QwBBQB2BH2A6ak5F2kwKBFdQFZdw5adBZQQHNdnBFaBN6BZk566d752ZaBFFdwJw?k5BNJTK2kQ2JHZJkadQKFQFNZQwBaQBaNZT<wdFdH2556NZkK2;FNJNZNQK5KaBwH2FkBQBwdZFHKNBHaNN2F6BZZ6wKa6BQZwwa5wK2KBKa66QKN5dZHQdFwQNFFQNK5HHKK6BF52HwQZHwB5da2g6aZww2JNHJ65akJBJad7da6wd2HBddwdQ5FawMaa5dawJ2aw?6HK5HLNdHFB6?QZHkFZ5kF(uad_5Z7wKZkk2ZFBQdw%Bd5NQdNwNZNkkKN6HtJZ6wk22ktZQB6JN5FdZoFaHwFZ0kZQ5MFZFH&NdQwFgwcNZJw5Fa*5Kd5QwF6QBFHJK5zwFN!HaBd^dNkJdFKdk5ZdJ ZN5JkBKJkF2JF2BHkN<HFBwQw26HQFkdN5EaH5FBHJwFMJdFFd62K6JNdHaKFQkBZZ5HkKKHkN2HFaCw5Z66pZ2FNaB5Z26/aQw26f2KHH6NnHdNFQ6J5k2K&kHZB6NZvHaBZ2B6kZ26{Kd6NQZCJDJJdN+kaJw6FwHd5dBH5B6KQkJKV6BKNH6NZH5dBwNZwkKKkFBZZaKwF2dwFZQkZQN5Kd5=NaQNaJ2BJd4FHkBJ5FQ2Lkw2Nk6ZZk5QZrJaJ<ZHJ5Q2Q6QZ66KKHadw626wZZwkJHNF2a65daK QBKdHFdJF5QdZZa6wZQwNKa62NNHKB5JJFZJH5aaHwJa6wB2NgHRZ2QwJ2BkHZ25adZWkaaw6BdJ6F6JZ5wdJZwHwBwHdFwQ2kKKB6dKFHQNZF22FwHZw6bKJF5ZZ6FBEQZF<Z2HiKQ6NN6HadQr52dkwZBkKKw5HZwHFBkQFFKJZ5HJ55FNZJ7BJQBFHJ22w6ZNa6Fa?kZN5Jk2Ndd526wFQaFwQ2KJH5HdD5ddFb6kwNJQdBawZNadB5_aa/wBHJkFrJdFFd626HwNwHJBFJ6FdJK6JNZHkN2Q1BQ562525y,Q2Nw5ZN5H5BkQFH6ZQ5HNkQdNFQQBNJwaFkaZNH>NZHBaJH)B5JvFFJFnHaJ)NBQJ6FwJaF5dH2NHKKFzHZFQZFkdm6dNKH6NZQwBJ52Zd6wKH6kKa5KK2HZFkJ2FddH5FN6QaN5QJBBJkKQ62NH2Q96HFadJk6KZNJHNQkFaJ3JBHJwdawaZ5KNJNFKHZ2QkBZwkaZ56HQHVHaQLQ22wQ2FkBZN6NN25NZaHFBZJNFFda6BBQH2B=QdBN5K2566K66aNNQ/BBJk2JHB5JdHSQaa(FaNk FQda5wda55aHKwQKBZQJFdJdKJJk_NaK d2awaFZdB5JdBhHa2KwQZFwJdBHJNhJa2ww2Q)5dZwNF5d25Kak-2aFKFJHF9JZ6QNKHwNaH5BHgd52d?ZQFKNZ25w_ZBz5J6F6k65dBHQwN5Q5BKJkF2JFaFk6Zd5FZFQ5B5QKF5JN65B6HKBkQ2BF55Z26ZKJkkKBQwaZ6NB2dwFdaw52N2QgBdQFFQJN56dZHwaZ6k2JwBZHk2Qk5k56Q6N5wHHFwaZHkN#BdKNB55BHQH6ZZKJ6NHkBa:KFaawH52QKZZFaKJKdwdaKB2Zk66ZF6QKNHwJFPaaF
+if game.PlaceId == 2753915549 then
+    World1 = true
+elseif game.PlaceId == 4442272183 then
+    World2 = true
+elseif game.PlaceId == 7449423635 then
+    World3 = true
+else
+    game:GetService("Players").LocalPlayer:Kick("Do not Support, Please wait...")
+end
+
+function CheckQuest() 
+    MyLevel = game:GetService("Players").LocalPlayer.Data.Level.Value
+    if World1 then
+        if MyLevel == 1 or MyLevel <= 9 then
+            Mon = "Bandit"
+            LevelQuest = 1
+            NameQuest = "BanditQuest1"
+            NameMon = "Bandit"
+            CFrameQuest = CFrame.new(1059.37195, 15.4495068, 1550.4231, 0.939700544, -0, -0.341998369, 0, 1, -0, 0.341998369, 0, 0.939700544)
+            CFrameMon = CFrame.new(1045.962646484375, 27.00250816345215, 1560.8203125)
+        elseif MyLevel == 10 or MyLevel <= 14 then
+            Mon = "Monkey"
+            LevelQuest = 1
+            NameQuest = "JungleQuest"
+            NameMon = "Monkey"
+            CFrameQuest = CFrame.new(-1598.08911, 35.5501175, 153.377838, 0, 0, 1, 0, 1, -0, -1, 0, 0)
+            CFrameMon = CFrame.new(-1448.51806640625, 67.85301208496094, 11.46579647064209)
+        elseif MyLevel == 15 or MyLevel <= 29 then
+            Mon = "Gorilla"
+            LevelQuest = 2
+            NameQuest = "JungleQuest"
+            NameMon = "Gorilla"
+            CFrameQuest = CFrame.new(-1598.08911, 35.5501175, 153.377838, 0, 0, 1, 0, 1, -0, -1, 0, 0)
+            CFrameMon = CFrame.new(-1129.8836669921875, 40.46354675292969, -525.4237060546875)
+        elseif MyLevel == 30 or MyLevel <= 39 then
+            Mon = "Pirate"
+            LevelQuest = 1
+            NameQuest = "BuggyQuest1"
+            NameMon = "Pirate"
+            CFrameQuest = CFrame.new(-1141.07483, 4.10001802, 3831.5498, 0.965929627, -0, -0.258804798, 0, 1, -0, 0.258804798, 0, 0.965929627)
+            CFrameMon = CFrame.new(-1103.513427734375, 13.752052307128906, 3896.091064453125)
+        elseif MyLevel == 40 or MyLevel <= 59 then
+            Mon = "Brute"
+            LevelQuest = 2
+            NameQuest = "BuggyQuest1"
+            NameMon = "Brute"
+            CFrameQuest = CFrame.new(-1141.07483, 4.10001802, 3831.5498, 0.965929627, -0, -0.258804798, 0, 1, -0, 0.258804798, 0, 0.965929627)
+            CFrameMon = CFrame.new(-1140.083740234375, 14.809885025024414, 4322.92138671875)
+        elseif MyLevel == 60 or MyLevel <= 74 then
+            Mon = "Desert Bandit"
+            LevelQuest = 1
+            NameQuest = "DesertQuest"
+            NameMon = "Desert Bandit"
+            CFrameQuest = CFrame.new(894.488647, 5.14000702, 4392.43359, 0.819155693, -0, -0.573571265, 0, 1, -0, 0.573571265, 0, 0.819155693)
+            CFrameMon = CFrame.new(924.7998046875, 6.44867467880249, 4481.5859375)
+        elseif MyLevel == 75 or MyLevel <= 89 then
+            Mon = "Desert Officer"
+            LevelQuest = 2
+            NameQuest = "DesertQuest"
+            NameMon = "Desert Officer"
+            CFrameQuest = CFrame.new(894.488647, 5.14000702, 4392.43359, 0.819155693, -0, -0.573571265, 0, 1, -0, 0.573571265, 0, 0.819155693)
+            CFrameMon = CFrame.new(1608.2822265625, 8.614224433898926, 4371.00732421875)
+        elseif MyLevel == 90 or MyLevel <= 99 then
+            Mon = "Snow Bandit"
+            LevelQuest = 1
+            NameQuest = "SnowQuest"
+            NameMon = "Snow Bandit"
+            CFrameQuest = CFrame.new(1389.74451, 88.1519318, -1298.90796, -0.342042685, 0, 0.939684391, 0, 1, 0, -0.939684391, 0, -0.342042685)
+            CFrameMon = CFrame.new(1354.347900390625, 87.27277374267578, -1393.946533203125)
+        elseif MyLevel == 100 or MyLevel <= 119 then
+            Mon = "Snowman"
+            LevelQuest = 2
+            NameQuest = "SnowQuest"
+            NameMon = "Snowman"
+            CFrameQuest = CFrame.new(1389.74451, 88.1519318, -1298.90796, -0.342042685, 0, 0.939684391, 0, 1, 0, -0.939684391, 0, -0.342042685)
+            CFrameMon = CFrame.new(1201.6412353515625, 144.57958984375, -1550.0670166015625)
+        elseif MyLevel == 120 or MyLevel <= 149 then
+            Mon = "Chief Petty Officer"
+            LevelQuest = 1
+            NameQuest = "MarineQuest2"
+            NameMon = "Chief Petty Officer"
+            CFrameQuest = CFrame.new(-5039.58643, 27.3500385, 4324.68018, 0, 0, -1, 0, 1, 0, 1, 0, 0)
+            CFrameMon = CFrame.new(-4881.23095703125, 22.65204429626465, 4273.75244140625)
+        elseif MyLevel == 150 or MyLevel <= 174 then
+            Mon = "Sky Bandit"
+            LevelQuest = 1
+            NameQuest = "SkyQuest"
+            NameMon = "Sky Bandit"
+            CFrameQuest = CFrame.new(-4839.53027, 716.368591, -2619.44165, 0.866007268, 0, 0.500031412, 0, 1, 0, -0.500031412, 0, 0.866007268)
+            CFrameMon = CFrame.new(-4953.20703125, 295.74420166015625, -2899.22900390625)
+        elseif MyLevel == 175 or MyLevel <= 189 then
+            Mon = "Dark Master"
+            LevelQuest = 2
+            NameQuest = "SkyQuest"
+            NameMon = "Dark Master"
+            CFrameQuest = CFrame.new(-4839.53027, 716.368591, -2619.44165, 0.866007268, 0, 0.500031412, 0, 1, 0, -0.500031412, 0, 0.866007268)
+            CFrameMon = CFrame.new(-5259.8447265625, 391.3976745605469, -2229.035400390625)
+        elseif MyLevel == 190 or MyLevel <= 209 then
+            Mon = "Prisoner"
+            LevelQuest = 1
+            NameQuest = "PrisonerQuest"
+            NameMon = "Prisoner"
+            CFrameQuest = CFrame.new(5308.93115, 1.65517521, 475.120514, -0.0894274712, -5.00292918e-09, -0.995993316, 1.60817859e-09, 1, -5.16744869e-09, 0.995993316, -2.06384709e-09, -0.0894274712)
+            CFrameMon = CFrame.new(5098.9736328125, -0.3204058110713959, 474.2373352050781)
+        elseif MyLevel == 210 or MyLevel <= 249 then
+            Mon = "Dangerous Prisoner"
+            LevelQuest = 2
+            NameQuest = "PrisonerQuest"
+            NameMon = "Dangerous Prisoner"
+            CFrameQuest = CFrame.new(5308.93115, 1.65517521, 475.120514, -0.0894274712, -5.00292918e-09, -0.995993316, 1.60817859e-09, 1, -5.16744869e-09, 0.995993316, -2.06384709e-09, -0.0894274712)
+            CFrameMon = CFrame.new(5654.5634765625, 15.633401870727539, 866.2991943359375)
+        elseif MyLevel == 250 or MyLevel <= 274 then
+            Mon = "Toga Warrior"
+            LevelQuest = 1
+            NameQuest = "ColosseumQuest"
+            NameMon = "Toga Warrior"
+            CFrameQuest = CFrame.new(-1580.04663, 6.35000277, -2986.47534, -0.515037298, 0, -0.857167721, 0, 1, 0, 0.857167721, 0, -0.515037298)
+            CFrameMon = CFrame.new(-1820.21484375, 51.68385696411133, -2740.6650390625)
+        elseif MyLevel == 275 or MyLevel <= 299 then
+            Mon = "Gladiator"
+            LevelQuest = 2
+            NameQuest = "ColosseumQuest"
+            NameMon = "Gladiator"
+            CFrameQuest = CFrame.new(-1580.04663, 6.35000277, -2986.47534, -0.515037298, 0, -0.857167721, 0, 1, 0, 0.857167721, 0, -0.515037298)
+            CFrameMon = CFrame.new(-1292.838134765625, 56.380882263183594, -3339.031494140625)
+        elseif MyLevel == 300 or MyLevel <= 324 then
+            Mon = "Military Soldier"
+            LevelQuest = 1
+            NameQuest = "MagmaQuest"
+            NameMon = "Military Soldier"
+            CFrameQuest = CFrame.new(-5313.37012, 10.9500084, 8515.29395, -0.499959469, 0, 0.866048813, 0, 1, 0, -0.866048813, 0, -0.499959469)
+            CFrameMon = CFrame.new(-5411.16455078125, 11.081554412841797, 8454.29296875)
+        elseif MyLevel == 325 or MyLevel <= 374 then
+            Mon = "Military Spy"
+            LevelQuest = 2
+            NameQuest = "MagmaQuest"
+            NameMon = "Military Spy"
+            CFrameQuest = CFrame.new(-5313.37012, 10.9500084, 8515.29395, -0.499959469, 0, 0.866048813, 0, 1, 0, -0.866048813, 0, -0.499959469)
+            CFrameMon = CFrame.new(-5802.8681640625, 86.26241302490234, 8828.859375)
+        elseif MyLevel == 375 or MyLevel <= 399 then
+            Mon = "Fishman Warrior"
+            LevelQuest = 1
+            NameQuest = "FishmanQuest"
+            NameMon = "Fishman Warrior"
+            CFrameQuest = CFrame.new(61122.65234375, 18.497442245483, 1569.3997802734)
+            CFrameMon = CFrame.new(60878.30078125, 18.482830047607422, 1543.7574462890625)
+            if _G.AutoFarm and (CFrameQuest.Position - game.Players.LocalPlayer.Character.HumanoidRootPart.Position).Magnitude > 10000 then
+                game:GetService("ReplicatedStorage").Remotes.CommF_:InvokeServer("requestEntrance",Vector3.new(61163.8515625, 11.6796875, 1819.7841796875))
+            end
+        elseif MyLevel == 400 or MyLevel <= 449 then
+            Mon = "Fishman Commando"
+            LevelQuest = 2
+            NameQuest = "FishmanQuest"
+            NameMon = "Fishman Commando"
+            CFrameQuest = CFrame.new(61122.65234375, 18.497442245483, 1569.3997802734)
+            CFrameMon = CFrame.new(61922.6328125, 18.482830047607422, 1493.934326171875)
+            if _G.AutoFarm and (CFrameQuest.Position - game.Players.LocalPlayer.Character.HumanoidRootPart.Position).Magnitude > 10000 then
+                game:GetService("ReplicatedStorage").Remotes.CommF_:InvokeServer("requestEntrance",Vector3.new(61163.8515625, 11.6796875, 1819.7841796875))
+            end
+        elseif MyLevel == 450 or MyLevel <= 474 then
+            Mon = "God's Guard"
+            LevelQuest = 1
+            NameQuest = "SkyExp1Quest"
+            NameMon = "God's Guard"
+            CFrameQuest = CFrame.new(-4721.88867, 843.874695, -1949.96643, 0.996191859, -0, -0.0871884301, 0, 1, -0, 0.0871884301, 0, 0.996191859)
+            CFrameMon = CFrame.new(-4710.04296875, 845.2769775390625, -1927.3079833984375)
+            if _G.AutoFarm and (CFrameQuest.Position - game.Players.LocalPlayer.Character.HumanoidRootPart.Position).Magnitude > 10000 then
+                game:GetService("ReplicatedStorage").Remotes.CommF_:InvokeServer("requestEntrance",Vector3.new(-4607.82275, 872.54248, -1667.55688))
+            end
+        elseif MyLevel == 475 or MyLevel <= 524 then
+            Mon = "Shanda"
+            LevelQuest = 2
+            NameQuest = "SkyExp1Quest"
+            NameMon = "Shanda"
+            CFrameQuest = CFrame.new(-7859.09814, 5544.19043, -381.476196, -0.422592998, 0, 0.906319618, 0, 1, 0, -0.906319618, 0, -0.422592998)
+            CFrameMon = CFrame.new(-7678.48974609375, 5566.40380859375, -497.2156066894531)
+            if _G.AutoFarm and (CFrameQuest.Position - game.Players.LocalPlayer.Character.HumanoidRootPart.Position).Magnitude > 10000 then
+                game:GetService("ReplicatedStorage").Remotes.CommF_:InvokeServer("requestEntrance",Vector3.new(-7894.6176757813, 5547.1416015625, -380.29119873047))
+            end
+        elseif MyLevel == 525 or MyLevel <= 549 then
+            Mon = "Royal Squad"
+            LevelQuest = 1
+            NameQuest = "SkyExp2Quest"
+            NameMon = "Royal Squad"
+            CFrameQuest = CFrame.new(-7906.81592, 5634.6626, -1411.99194, 0, 0, -1, 0, 1, 0, 1, 0, 0)
+            CFrameMon = CFrame.new(-7624.25244140625, 5658.13330078125, -1467.354248046875)
+        elseif MyLevel == 550 or MyLevel <= 624 then
+            Mon = "Royal Soldier"
+            LevelQuest = 2
+            NameQuest = "SkyExp2Quest"
+            NameMon = "Royal Soldier"
+            CFrameQuest = CFrame.new(-7906.81592, 5634.6626, -1411.99194, 0, 0, -1, 0, 1, 0, 1, 0, 0)
+            CFrameMon = CFrame.new(-7836.75341796875, 5645.6640625, -1790.6236572265625)
+        elseif MyLevel == 625 or MyLevel <= 649 then
+            Mon = "Galley Pirate"
+            LevelQuest = 1
+            NameQuest = "FountainQuest"
+            NameMon = "Galley Pirate"
+            CFrameQuest = CFrame.new(5259.81982, 37.3500175, 4050.0293, 0.087131381, 0, 0.996196866, 0, 1, 0, -0.996196866, 0, 0.087131381)
+            CFrameMon = CFrame.new(5551.02197265625, 78.90135192871094, 3930.412841796875)
+        elseif MyLevel >= 650 then
+            Mon = "Galley Captain"
+            LevelQuest = 2
+            NameQuest = "FountainQuest"
+            NameMon = "Galley Captain"
+            CFrameQuest = CFrame.new(5259.81982, 37.3500175, 4050.0293, 0.087131381, 0, 0.996196866, 0, 1, 0, -0.996196866, 0, 0.087131381)
+            CFrameMon = CFrame.new(5441.95166015625, 42.50205993652344, 4950.09375)
+        end
+    elseif World2 then
+        if MyLevel == 700 or MyLevel <= 724 then
+            Mon = "Raider"
+            LevelQuest = 1
+            NameQuest = "Area1Quest"
+            NameMon = "Raider"
+            CFrameQuest = CFrame.new(-429.543518, 71.7699966, 1836.18188, -0.22495985, 0, -0.974368095, 0, 1, 0, 0.974368095, 0, -0.22495985)
+            CFrameMon = CFrame.new(-728.3267211914062, 52.779319763183594, 2345.7705078125)
+        elseif MyLevel == 725 or MyLevel <= 774 then
+            Mon = "Mercenary"
+            LevelQuest = 2
+            NameQuest = "Area1Quest"
+            NameMon = "Mercenary"
+            CFrameQuest = CFrame.new(-429.543518, 71.7699966, 1836.18188, -0.22495985, 0, -0.974368095, 0, 1, 0, 0.974368095, 0, -0.22495985)
+            CFrameMon = CFrame.new(-1004.3244018554688, 80.15886688232422, 1424.619384765625)
+        elseif MyLevel == 775 or MyLevel <= 799 then
+            Mon = "Swan Pirate"
+            LevelQuest = 1
+            NameQuest = "Area2Quest"
+            NameMon = "Swan Pirate"
+            CFrameQuest = CFrame.new(638.43811, 71.769989, 918.282898, 0.139203906, 0, 0.99026376, 0, 1, 0, -0.99026376, 0, 0.139203906)
+            CFrameMon = CFrame.new(1068.664306640625, 137.61428833007812, 1322.1060791015625)
+        elseif MyLevel == 800 or MyLevel <= 874 then
+            Mon = "Factory Staff"
+            NameQuest = "Area2Quest"
+            LevelQuest = 2
+            NameMon = "Factory Staff"
+            CFrameQuest = CFrame.new(632.698608, 73.1055908, 918.666321, -0.0319722369, 8.96074881e-10, -0.999488771, 1.36326533e-10, 1, 8.92172336e-10, 0.999488771, -1.07732087e-10, -0.0319722369)
+            CFrameMon = CFrame.new(73.07867431640625, 81.86344146728516, -27.470672607421875)
+        elseif MyLevel == 875 or MyLevel <= 899 then
+            Mon = "Marine Lieutenant"
+            LevelQuest = 1
+            NameQuest = "MarineQuest3"
+            NameMon = "Marine Lieutenant"
+            CFrameQuest = CFrame.new(-2440.79639, 71.7140732, -3216.06812, 0.866007268, 0, 0.500031412, 0, 1, 0, -0.500031412, 0, 0.866007268)
+            CFrameMon = CFrame.new(-2821.372314453125, 75.89727783203125, -3070.089111328125)
+        elseif MyLevel == 900 or MyLevel <= 949 then
+            Mon = "Marine Captain"
+            LevelQuest = 2
+            NameQuest = "MarineQuest3"
+            NameMon = "Marine Captain"
+            CFrameQuest = CFrame.new(-2440.79639, 71.7140732, -3216.06812, 0.866007268, 0, 0.500031412, 0, 1, 0, -0.500031412, 0, 0.866007268)
+            CFrameMon = CFrame.new(-1861.2310791015625, 80.17658233642578, -3254.697509765625)
+        elseif MyLevel == 950 or MyLevel <= 974 then
+            Mon = "Zombie"
+            LevelQuest = 1
+            NameQuest = "ZombieQuest"
+            NameMon = "Zombie"
+            CFrameQuest = CFrame.new(-5497.06152, 47.5923004, -795.237061, -0.29242146, 0, -0.95628953, 0, 1, 0, 0.95628953, 0, -0.29242146)
+            CFrameMon = CFrame.new(-5657.77685546875, 78.96973419189453, -928.68701171875)
+        elseif MyLevel == 975 or MyLevel <= 999 then
+            Mon = "Vampire"
+            LevelQuest = 2
+            NameQuest = "ZombieQuest"
+            NameMon = "Vampire"
+            CFrameQuest = CFrame.new(-5497.06152, 47.5923004, -795.237061, -0.29242146, 0, -0.95628953, 0, 1, 0, 0.95628953, 0, -0.29242146)
+            CFrameMon = CFrame.new(-6037.66796875, 32.18463897705078, -1340.6597900390625)
+        elseif MyLevel == 1000 or MyLevel <= 1049 then
+            Mon = "Snow Trooper"
+            LevelQuest = 1
+            NameQuest = "SnowMountainQuest"
+            NameMon = "Snow Trooper"
+            CFrameQuest = CFrame.new(609.858826, 400.119904, -5372.25928, -0.374604106, 0, 0.92718488, 0, 1, 0, -0.92718488, 0, -0.374604106)
+            CFrameMon = CFrame.new(549.1473388671875, 427.3870544433594, -5563.69873046875)
+        elseif MyLevel == 1050 or MyLevel <= 1099 then
+            Mon = "Winter Warrior"
+            LevelQuest = 2
+            NameQuest = "SnowMountainQuest"
+            NameMon = "Winter Warrior"
+            CFrameQuest = CFrame.new(609.858826, 400.119904, -5372.25928, -0.374604106, 0, 0.92718488, 0, 1, 0, -0.92718488, 0, -0.374604106)
+            CFrameMon = CFrame.new(1142.7451171875, 475.6398010253906, -5199.41650390625)
+        elseif MyLevel == 1100 or MyLevel <= 1124 then
+            Mon = "Lab Subordinate"
+            LevelQuest = 1
+            NameQuest = "IceSideQuest"
+            NameMon = "Lab Subordinate"
+            CFrameQuest = CFrame.new(-6064.06885, 15.2422857, -4902.97852, 0.453972578, -0, -0.891015649, 0, 1, -0, 0.891015649, 0, 0.453972578)
+            CFrameMon = CFrame.new(-5707.4716796875, 15.951709747314453, -4513.39208984375)
+        elseif MyLevel == 1125 or MyLevel <= 1174 then
+            Mon = "Horned Warrior"
+            LevelQuest = 2
+            NameQuest = "IceSideQuest"
+            NameMon = "Horned Warrior"
+            CFrameQuest = CFrame.new(-6064.06885, 15.2422857, -4902.97852, 0.453972578, -0, -0.891015649, 0, 1, -0, 0.891015649, 0, 0.453972578)
+            CFrameMon = CFrame.new(-6341.36669921875, 15.951770782470703, -5723.162109375)
+        elseif MyLevel == 1175 or MyLevel <= 1199 then
+            Mon = "Magma Ninja"
+            LevelQuest = 1
+            NameQuest = "FireSideQuest"
+            NameMon = "Magma Ninja"
+            CFrameQuest = CFrame.new(-5428.03174, 15.0622921, -5299.43457, -0.882952213, 0, 0.469463557, 0, 1, 0, -0.469463557, 0, -0.882952213)
+            CFrameMon = CFrame.new(-5449.6728515625, 76.65874481201172, -5808.20068359375)
+        elseif MyLevel == 1200 or MyLevel <= 1249 then
+            Mon = "Lava Pirate"
+            LevelQuest = 2
+            NameQuest = "FireSideQuest"
+            NameMon = "Lava Pirate"
+            CFrameQuest = CFrame.new(-5428.03174, 15.0622921, -5299.43457, -0.882952213, 0, 0.469463557, 0, 1, 0, -0.469463557, 0, -0.882952213)
+            CFrameMon = CFrame.new(-5213.33154296875, 49.73788070678711, -4701.451171875)
+        elseif MyLevel == 1250 or MyLevel <= 1274 then
+            Mon = "Ship Deckhand"
+            LevelQuest = 1
+            NameQuest = "ShipQuest1"
+            NameMon = "Ship Deckhand"
+            CFrameQuest = CFrame.new(1037.80127, 125.092171, 32911.6016)         
+            CFrameMon = CFrame.new(1212.0111083984375, 150.79205322265625, 33059.24609375)    
+            if _G.AutoFarm and (CFrameQuest.Position - game.Players.LocalPlayer.Character.HumanoidRootPart.Position).Magnitude > 10000 then
+                game:GetService("ReplicatedStorage").Remotes.CommF_:InvokeServer("requestEntrance",Vector3.new(923.21252441406, 126.9760055542, 32852.83203125))
+            end
+        elseif MyLevel == 1275 or MyLevel <= 1299 then
+            Mon = "Ship Engineer"
+            LevelQuest = 2
+            NameQuest = "ShipQuest1"
+            NameMon = "Ship Engineer"
+            CFrameQuest = CFrame.new(1037.80127, 125.092171, 32911.6016)   
+            CFrameMon = CFrame.new(919.4786376953125, 43.54401397705078, 32779.96875)   
+            if _G.AutoFarm and (CFrameQuest.Position - game.Players.LocalPlayer.Character.HumanoidRootPart.Position).Magnitude > 10000 then
+                game:GetService("ReplicatedStorage").Remotes.CommF_:InvokeServer("requestEntrance",Vector3.new(923.21252441406, 126.9760055542, 32852.83203125))
+            end             
+        elseif MyLevel == 1300 or MyLevel <= 1324 then
+            Mon = "Ship Steward"
+            LevelQuest = 1
+            NameQuest = "ShipQuest2"
+            NameMon = "Ship Steward"
+            CFrameQuest = CFrame.new(968.80957, 125.092171, 33244.125)         
+            CFrameMon = CFrame.new(
